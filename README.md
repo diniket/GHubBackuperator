@@ -51,5 +51,14 @@ Esegui lo script come amministratore e scegli:
 
 Usa PowerShell integrato (Compress-Archive / Expand-Archive) e WinForms per le finestre.
 
+## 📸 Screenshots
+
+### Menu principale
+![Menu](menu.png)
+
+### Scelta percorso backup
+![Save dialog](save-dialog.png)
+
+
 
 
