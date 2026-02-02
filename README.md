@@ -94,6 +94,9 @@ You can inspect the code before running it.
 ### Backup file selection
 ![Save dialog](save-dialog.png)
 
+Inspired by the original GHub Backuperator project by Olheiro.
+
+
 
 
 
