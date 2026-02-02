@@ -1,7 +1,7 @@
 ![GitHub release](https://img.shields.io/github/v/release/diniket/GHubBackuperator)
 
 
-# GHub Backuperator (ZIP + GUI) 🇮🇹 Italiano | 🇬🇧 English below
+# GHub Backuperator (ZIP + GUI) 🇮🇹 | 🇬🇧 below
 
 
 
@@ -53,7 +53,7 @@ Usa PowerShell integrato (Compress-Archive / Expand-Archive) e WinForms per le f
 
 ---
 
-# GHub Backuperator (ZIP + GUI) 🇬🇧 English
+# GHub Backuperator (ZIP + GUI) 🇬🇧 
 
 A small Windows batch utility to **backup and restore Logitech G Hub profiles and settings** into a single ZIP file — without needing a Logitech account.
 
