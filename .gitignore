@@ -1,0 +1,5 @@
+# niente file temporanei
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
