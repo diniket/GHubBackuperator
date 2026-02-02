@@ -1,3 +1,6 @@
+![GitHub release](https://img.shields.io/github/v/release/diniket/GHubBackuperator)
+
+
 \# GHub Backuperator (ZIP + GUI) 🇮🇹
 
 
